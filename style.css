@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(to right,#446A46, #82A284);
+    color: #FFFBE9;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 300px;
+    height: 300px;
+}
+
+.name_of_objects, #accuracy, #result_family_name{
+    color:bisque;
+}
+
+hr {
+    border-top: 4px dotted #D0C9C0;
+}
